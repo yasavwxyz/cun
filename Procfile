@@ -1,1 +1,1 @@
-worker: python3 -m ncun
+worker: python3 -m cun
