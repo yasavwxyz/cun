@@ -1,4 +1,4 @@
-# cun
+# WELCOME
 simple userbot bot mas
 ### DEPLOY
 
